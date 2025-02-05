@@ -57,8 +57,5 @@ Before you begin, make sure you have the following prerequisites:
  19. Service Usage API
  
 
- ## Author
-
- Aayush Shetty
 
  
